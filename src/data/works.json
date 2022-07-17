@@ -1,0 +1,17 @@
+{
+    "works": [
+        {
+            "cover": "/creative-coding-2022/src/assets/images/works/processing/artwork_001.png",
+            "title": "Trabajos Seleccionados",
+            "description": "blabla",
+            "url": "matiasbarreto.ar"
+        },
+
+        {
+            "pepe": "/creative-coding-2022/src/assets/images/works/processing/artwork_002.png",
+            "title": "Trabajos Seleccionados",
+            "description": "blabla",
+            "url": "matiasbarreto.ar"
+        }
+    ]
+}
