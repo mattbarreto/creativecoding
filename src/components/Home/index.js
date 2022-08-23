@@ -64,7 +64,7 @@ const Home = () => {
             Lugar: Espacio R3set, Roseti 312, CABA.
             <br />
             <br />
-            Fecha de Inicio: sabado 8 de Octubre.
+            Fecha de Inicio: sábado 8 de Octubre.
             <br />
             <br />
             Valor: 2 pagos de 7000 ARG o 1 pago de 12000 ARG. 
