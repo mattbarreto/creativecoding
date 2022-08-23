@@ -1,9 +1,9 @@
 import './index.scss'
 import {Link, NavLink} from 'react-router-dom'
-import LogoC from '../../assets/images/logos/webo6.gif'
+import LogoC from '../../assets/images/logos/logo.gif'
 /* import LogoSubtitle from '../../assets/images/sub.jpg' */
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
-import {faTerminal, faFolderTree, faFolderOpen, faEnvelopeOpenText} from '@fortawesome/free-solid-svg-icons'
+import {faTerminal, faFolderTree, faFolderOpen, faEnvelopeOpenText, faCubes} from '@fortawesome/free-solid-svg-icons'
 import {faLinkedin, faGithub, faVimeo,} from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
@@ -15,6 +15,10 @@ const Sidebar = () => (
         <nav>
             <NavLink exact='true' activeclassname='active' to='/'>
                 <FontAwesomeIcon icon={faTerminal} color = '#DC143C' />
+            </NavLink>
+
+            <NavLink exact='true' activeclassname='active' className = 'syllabus-link' to='/syllabus'>
+                <FontAwesomeIcon icon={faCubes} color = '#DC143C' />
             </NavLink>
 
             <NavLink exact='true' activeclassname='active' className = 'about-link' to='/recursos'>
@@ -34,7 +38,7 @@ const Sidebar = () => (
                 <a 
                 target = '_blank' 
                 rel='noreferrer' 
-                href='https://www.linkedin.com/in/barreto-matias/'>
+                href='http://www.linkedin.com/in/matiasbarreto'>
                 <FontAwesomeIcon icon={faLinkedin} color = '#DC143C'/>
                 </a>
 

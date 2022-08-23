@@ -30,12 +30,15 @@ const [letterClass] = useState('text-animate')
 
             <h2>
                 Repositorio Creative Coding 2022 en GitHub
+                
             </h2>
 
-            <p>
-                Trabajo practico Clase 1 y 2 en GitHub.
-            </p>
-
+            <a 
+                target = '_blank' 
+                rel='noreferrer' 
+                href='https://creativecoding2022.github.io/'>Trabajo practico Clase 1 y 2 en GitHub 
+            </a>
+            
 
             <h2>
                 Libros Recomendados

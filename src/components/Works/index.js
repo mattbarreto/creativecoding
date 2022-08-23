@@ -1,4 +1,5 @@
 import './index.scss'
+import './responsive.scss'
 import { useState } from 'react'
 import AnimatedLetters from '../AnimmatedLetters'
 import processing1 from '../../assets/images/works/processing/artwork_001.png'
@@ -48,6 +49,7 @@ const Works = () => {
                 <p className='descripcion'>
 
                     En Creative Coding aprenderemos a trabajar con pj5, Processing, JavaScript, Arduino y Phyton. 
+                    <br/>
                     <br/>
                     Estos son algunos trabajos realizados con JavaScript y Processing.
                 </p>

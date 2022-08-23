@@ -12,7 +12,7 @@
     h1 {
         font: 'CourierPrime-Regular.ttf';
         color: #DC143C;
-        font-size: 20px;
+        font-size: 22px;
         letter-spacing: 2px;
         margin: 0;
         font-weight: 600;
@@ -22,7 +22,7 @@
         color: #DC143C;
         margin-top: 20px;
         font-weight: 600;
-        font-size: 48px;
+        font-size: 54px;
         font: 'CourierPrime-Regular.ttf';
         letter-spacing: 3px;
         animation: fadeIn 1s 1.8s backwards;
@@ -55,10 +55,11 @@
         h3 {
             font: 'CourierPrime-Regular.ttf';
             color: #DC143C;
-            font-size: 14px;
+            font-size: 20px;
             letter-spacing: 2px;
             margin: 0;
             font-weight: 400;
+            padding-bottom: 25px;
             animation: fadeIn 1s 2s backwards;
         }
 
@@ -78,15 +79,26 @@
     white-space: nowrap;
     border-radius: 4px;
 
+
     &:hover {
         background: #DC143C;
+        //background: #ffe600;
         color: black;
     }
 }
 
+.spline{
+
+    float: right;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 0px;
+    margin-right: 2px;
+    }
+
 }
 
-.syllabus {
+.intro {
     position: absolute;
     left: 10%;
     top: 50%;
@@ -95,7 +107,8 @@
     max-height: 90%;
 
     p {     
-            font-size: 16px;
+            font-size: 18px;
+            font-weight: 400;
             letter-spacing: 2px;
             color: #DB0049;
         }
@@ -109,14 +122,6 @@
             text-decoration: none;
         }
     
-        .section--top {
-            height: 100vh;
-            width: 100vw;
-            background-image: url("#");
-            background-position: center;
-            background-size: cover;
-        }
-    
         .section--about {
             padding-top: 60px;
             padding-left: 10px;
@@ -128,11 +133,13 @@
         }
     
         .border {
+            margin-top: 60px;
+            margin-bottom: 60px;
             border: 1px solid #01ff23;
             animation: fadeIn 2s 2.4s infinite;
             }
     
-        .about__syllabus {
+        .about__intro {
             padding-left: 10px;
             padding-right: 10px;
         }
@@ -170,7 +177,7 @@
 
     @media (min-width: 320px) and (orientation: vertical)  {
     
-            .syllabus {
-                display: inline-block;
+            .welcome {
+                position: absolute;
             }
         }
