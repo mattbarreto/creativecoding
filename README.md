@@ -14,7 +14,7 @@ Welcome to the Creative Coding 2022 project repository! This project utilizes Re
 
 3. **Resources:** Compilation of materials, links, and useful documents for participants.
 
-4. **Work Selection:** Gallery showcasing some highlighted works by students.
+4. **Work Selection:** Gallery showcasing some highlighted works.
 
 5. **Contact Form:** Allows visitors to get in touch for more information or inquiries.
 
