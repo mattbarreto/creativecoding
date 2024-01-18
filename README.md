@@ -4,7 +4,7 @@
 
 ## Captura de Pantalla
 
-![Demo](https://link/a/la/animacion/gif/demo.gif)
+![Demo]([https://link/a/la/animacion/gif/demo.gif](https://github.com/mattbarreto/creativecoding/blob/master/preview_cc.gif))
 
 ## Contenido
 
@@ -29,7 +29,7 @@ Puedes acceder al sitio web directamente [aquí](https://crearcodigo.netlify.app
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
+   git clone https://github.com/mattbarreto/creativecoding.git
 
 2. Navega al directorio del proyecto:
 
