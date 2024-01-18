@@ -4,7 +4,7 @@
 
 ## Captura de Pantalla
 
-![Demo]([https://link/a/la/animacion/gif/demo.gif](https://github.com/mattbarreto/creativecoding/blob/master/preview_cc.gif))
+![Demo](https://github.com/mattbarreto/creativecoding/blob/master/preview_cc.gif?raw=true)
 
 ## Contenido
 
