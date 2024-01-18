@@ -1,51 +1,51 @@
 # Creative Coding 2022
 
-¡Bienvenido/a al repositorio del proyecto Creative Coding 2022! Este proyecto utiliza React, CSS, HTML y Spline para crear esculturas interactivas 3D.
+Welcome to the Creative Coding 2022 project repository! This project utilizes React, CSS, HTML, and Spline to create interactive 3D sculptures.
 
-## Captura de Pantalla
+## Screenshot
 
 <img src="https://github.com/mattbarreto/creativecoding/blob/master/preview_cc.gif?raw=true" width="100%" alt="Demo">
 
-## Contenido
+## Contents
 
-1. **Inicio**: Página principal que da la bienvenida y presenta el concepto del curso.
+1. **Home:** The main page that welcomes visitors and introduces the course concept.
 
-2. **Programa del Curso**: Detalles sobre el contenido del curso, módulos y horarios.
+2. **Course Program:** Details about the course content, modules, and schedules.
 
-3. **Recursos**: Recopilación de materiales, enlaces y documentos útiles para los participantes.
+3. **Resources:** Compilation of materials, links, and useful documents for participants.
 
-4. **Selección de Trabajos**: Galería con algunos trabajos destacados de los estudiantes.
+4. **Work Selection:** Gallery showcasing some highlighted works by students.
 
-5. **Formulario de Contacto**: Permite a los visitantes ponerse en contacto para más información o consultas.
+5. **Contact Form:** Allows visitors to get in touch for more information or inquiries.
 
-6. **Redes Sociales**: Botones enlazados a mis perfiles en diferentes redes sociales.
+6. **Social Media:** Buttons linked to my profiles on various social media platforms.
 
-## Acceso al Sitio Web
+## Website Access
 
-Puedes acceder al sitio web directamente [aquí](https://crearcodigo.netlify.app/).
+You can access the website directly [here](https://crearcodigo.netlify.app/).
 
-## Cómo Ejecutar el Proyecto Localmente
+## How to Run the Project Locally
 
-1. Clona este repositorio:
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/mattbarreto/creativecoding.git
 
-2. Navega al directorio del proyecto:
+2. Navigate to the project directory:
 
    ```bash
    cd tu-proyecto
 
-4. Instala las dependencias:
+4. Install the dependencies:
    ```bash
    npm install
 
-4. Inicia el servidor local:
+4. Start the local server:
 
    ```bash
    npm start
 
-El proyecto estará disponible en http://localhost:3000/.
+Start the local server:
 
-Contribuciones
-Si tienes sugerencias, mejoras o encuentras algún problema, ¡estaré encantado/a de recibir tus contribuciones!
+## Contributions
+If you have suggestions, improvements, or encounter any issues, I'll be delighted to receive your contributions!
